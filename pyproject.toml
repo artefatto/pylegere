@@ -1,5 +1,5 @@
 [build-system]
-requires = ["pyoz"]
+requires = ["pyoz @ git+https://github.com/ivansantiagojr/PyOZ.git#88056d7e82cbf05b4fb44eb36d6d4d26c4417156"]
 build-backend = "pyoz.backend"
 
 [project]
