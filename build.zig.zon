@@ -3,13 +3,13 @@
     .version = "0.1.0",
     .fingerprint = 0x565aa4cf3921d478,
     .dependencies = .{
-        .PyOZ = .{
-            .url = "https://github.com/pyozig/PyOZ/archive/refs/tags/v0.12.2.tar.gz",
-            .hash = "PyOZ-0.12.2-ntlpPuP8FwB3i629dScseeVY-p6-F4DV3nL9awKke0S1",
-        },
         .legere = .{
             .url = "git+https://github.com/ivansantiagojr/liblegere.git#055072238557de1c7fc859137d0097d490f2e656",
             .hash = "legere-0.0.0--L4chY0qAADpDGLOhZl2iCLYJsJH9YC8zRSSUk2VQ9L-",
+        },
+        .PyOZ = .{
+            .url = "git+https://github.com/ivansantiagojr/PyOZ.git#88056d7e82cbf05b4fb44eb36d6d4d26c4417156",
+            .hash = "PyOZ-0.12.2-ntlpPuP8FwB3i629dScseeVY-p6-F4DV3nL9awKke0S1",
         },
     },
     .paths = .{
