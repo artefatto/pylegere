@@ -8,7 +8,7 @@
             .hash = "legere-0.0.0--L4chY0qAADpDGLOhZl2iCLYJsJH9YC8zRSSUk2VQ9L-",
         },
         .PyOZ = .{
-            .url = "git+https://github.com/ivansantiagojr/PyOZ.git#88056d7e82cbf05b4fb44eb36d6d4d26c4417156",
+            .url = "git+https://github.com/ivansantiagojr/PyOZ.git#f450ee9d2bde96c1edfc4be22bd10f7312526304",
             .hash = "PyOZ-0.12.2-ntlpPuP8FwB3i629dScseeVY-p6-F4DV3nL9awKke0S1",
         },
     },
